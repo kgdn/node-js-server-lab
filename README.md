@@ -1,2 +1,2 @@
-# f28wp-lab-3
+# Lab 3
 Created with CodeSandbox
